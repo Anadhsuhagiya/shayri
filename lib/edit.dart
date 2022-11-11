@@ -229,7 +229,7 @@ class _editState extends State<edit> {
                     'Background',
                     style: TextStyle(
                         letterSpacing: 1,
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         fontWeight: FontWeight.bold),
                   ),
@@ -298,7 +298,7 @@ class _editState extends State<edit> {
                   child: Text(
                     'Text Color',
                     style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         letterSpacing: 1,
                         fontWeight: FontWeight.bold),
@@ -332,7 +332,7 @@ class _editState extends State<edit> {
                   child: Text(
                     'Share',
                     style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         letterSpacing: 1,
                         fontWeight: FontWeight.bold),
@@ -401,7 +401,7 @@ class _editState extends State<edit> {
                   child: Text(
                     'Font',
                     style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         letterSpacing: 1,
                         fontWeight: FontWeight.bold),
@@ -455,7 +455,7 @@ class _editState extends State<edit> {
                   child: Text(
                     'Emoji',
                     style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         letterSpacing: 1,
                         fontWeight: FontWeight.bold),
@@ -505,7 +505,7 @@ class _editState extends State<edit> {
                   child: Text(
                     'Text Size',
                     style: TextStyle(
-                        fontSize: 14,
+                        fontSize: 11,
                         color: Colors.white,
                         letterSpacing: 1,
                         fontWeight: FontWeight.bold),

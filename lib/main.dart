@@ -12,6 +12,7 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: splash(),
+    theme: ThemeData(fontFamily: 'Poppins'),
   ));
 }
 
